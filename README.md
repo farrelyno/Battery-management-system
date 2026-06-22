@@ -9,7 +9,7 @@ Repository ini berisi dokumentasi teknis mengenai prinsip kerja Battery Manageme
 ## Kondisi Tegangan Pada Baterai
 * Tegangan Nominal = Nilai tegangan rata-rata yang mewakili karakteristik baterai selama pemakaian.
 * Tegangana Maksimum = Tegangan saat baterai selesai diisi penuh.
- * Saat tegangan mencapai maksimum:
+ ** Saat tegangan mencapai maksimum:
  * Pengecasan harus dihentikan untuk mencegah overcharge
 * Tegangan Cutoff = Tegangan terendah yang masih diizinkan untuk digunakan.
  * Saat tegangan mencapai cutoff:
