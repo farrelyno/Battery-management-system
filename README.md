@@ -6,7 +6,7 @@ Battery Management System (BMS) adalah sistem elektronik yang digunakan untuk me
 
 Repository ini berisi dokumentasi teknis mengenai prinsip kerja Battery Management System, mulai dari dasar teori hingga implementasi berbagai fitur proteksi yang umum digunakan pada baterai lithium-ion.
 
-## Tegangan Pada Baterai (Lipo Battery)
+## Kondisi Tegangan Pada Baterai
 * Tegangan Nominal = Nilai tegangan rata-rata yang mewakili karakteristik baterai selama pemakaian.
 * Tegangana Maksimum = Tegangan saat baterai selesai diisi penuh.
   *Saat tegangan mencapai maksimum:
